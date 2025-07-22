@@ -1,0 +1,123 @@
+{
+  "cookies": [
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09ANMylNDJOH_NVJaiDDjd2-HnmvE6WvGXm8IRw0DErTVknScwjMSVtqyldXlm1XREfVrmpN0lhnqHwWuS9bLr5dw",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1768703808.766533,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "device_id",
+      "value": "c116e6df-b5c4-4557-93b0-ef4371df3ac2",
+      "domain": "robinhood.com",
+      "path": "/",
+      "expires": 1787711794.832368,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session_id",
+      "value": "cbd0de9a-caa1-4f7a-b750-c898be8f5984",
+      "domain": ".robinhood.com",
+      "path": "/",
+      "expires": 1753153609,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-Web-App-Secondary-Access-Token",
+      "value": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjIiLCJ0eXAiOiJKV1QifQ.eyJkZXZpY2VfaGFzaCI6IjY5MGYzYmJlNTZiOTExNzI2ZWU3ZDg3MTU3YzQxNDM4IiwiZXhwIjoxNzUzOTk1MzQ4LCJpc3MiOiJodHRwczovL2FwaS5yb2Jpbmhvb2QuY29tIiwibGV2ZWwyX2FjY2VzcyI6dHJ1ZSwibWV0YSI6e30sIm9wdGlvbnMiOnRydWUsInBvcyI6InMiLCJzY29wZSI6InJlYWQiLCJzZXJ2aWNlX3JlY29yZHMiOlt7ImhhbHRlZCI6ZmFsc2UsInNlcnZpY2UiOiJudW1tdXNfdXMiLCJzaGFyZF9pZCI6Miwic3RhdGUiOiJhdmFpbGFibGUifSx7ImhhbHRlZCI6ZmFsc2UsInNlcnZpY2UiOiJicm9rZWJhY2tfdXMiLCJzaGFyZF9pZCI6Mywic3RhdGUiOiJhdmFpbGFibGUifV0sInNsZyI6MSwic2xzIjoiTGpobElxWTJkZlJMd3IxbmxQb2hBYy9LTTBDOWdFSmpPWXVHZG9GRUx3RGNnU3dRRDVucFFOY0tNSVU1NWovbjhzUUUwajBISWNrY1VTWUZudExpQ0E9PSIsInNybSI6eyJiIjp7ImhsIjpmYWxzZSwiciI6InVzIiwic2lkIjozfSwibiI6eyJobCI6ZmFsc2UsInIiOiJ1cyIsInNpZCI6Mn19LCJ0b2tlbiI6ImQ3ODgyZTdjMmRhMmE1NzAzMTU5MzBhMmFmY2E4OTBhZDJkM2ZiMjVjYjc3YmIxM2U5ZGY3NDY1NWVlZjY3YjgiLCJ1c2VyX2lkIjoiOThhNjM0MjItYTk0ZC00NTAzLTkxYmQtYWQwNWRiMDhiYWU5IiwidXNlcl9vcmlnaW4iOiJVUyJ9.IJWKi1Nj2ZsFgn4O2LoVow9v_cLhepCtlAocO3k1yTn13IjzdkJxQo2bSodKbG8C4Xm5Zj-ZWZ8VPhpebBsgpA",
+      "domain": "robinhood.com",
+      "path": "/",
+      "expires": 1753995348,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "logged_in",
+      "value": "True",
+      "domain": ".robinhood.com",
+      "path": "/",
+      "expires": 1787711809.516047,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://robinhood.com",
+      "localStorage": [
+        {
+          "name": "web-app:theme-setting",
+          "value": "market"
+        },
+        {
+          "name": "uc_gcm",
+          "value": "{\"adsDataRedaction\":false,\"adPersonalization\":\"granted\",\"adStorage\":\"granted\",\"adUserData\":\"granted\",\"analyticsStorage\":\"granted\"}"
+        },
+        {
+          "name": "web-app:accessible-colors-setting",
+          "value": "default"
+        },
+        {
+          "name": "uc_usprivacy",
+          "value": "1-N-"
+        },
+        {
+          "name": "_grecaptcha",
+          "value": "09ANMylNC7ZSVcDledZhC7mSXx_kNNcOezkvjaTRN0BONGwV2bqGEVIP8f7WP20gfdQtwwlFfBRh59cTOd4Jnf-IBxvSUx26qBJ9TqkLCxuDcbQOdaz6p6--E0WmjHOPLf"
+        },
+        {
+          "name": "web:auth_state",
+          "value": "{\"access_token\":\"eyJhbGciOiJFUzI1NiIsImtpZCI6IjIiLCJ0eXAiOiJKV1QifQ.eyJkY3QiOjE3NTMxNTE3OTgsImRldmljZV9oYXNoIjoiNjkwZjNiYmU1NmI5MTE3MjZlZTdkODcxNTdjNDE0MzgiLCJleHAiOjE3NTM5OTUzNDgsImlzcyI6Imh0dHBzOi8vYXBpLnJvYmluaG9vZC5jb20iLCJsZXZlbDJfYWNjZXNzIjp0cnVlLCJtZXRhIjp7Im9pZCI6ImM4MlNIMFdaT3NhYk9YR1Ayc3hxY2ozNEZ4a3ZmbldSWkJLbEJqRlMiLCJvbiI6IlJvYmluaG9vZCJ9LCJvcHRpb25zIjp0cnVlLCJwb3MiOiJwIiwic2NvcGUiOiJpbnRlcm5hbCIsInNlcnZpY2VfcmVjb3JkcyI6W3siaGFsdGVkIjpmYWxzZSwic2VydmljZSI6Im51bW11c191cyIsInNoYXJkX2lkIjoyLCJzdGF0ZSI6ImF2YWlsYWJsZSJ9LHsiaGFsdGVkIjpmYWxzZSwic2VydmljZSI6ImJyb2tlYmFja191cyIsInNoYXJkX2lkIjozLCJzdGF0ZSI6ImF2YWlsYWJsZSJ9XSwic2xnIjoxLCJzbHMiOiJEOUZRU3F4TGRUSFArc0c2MTArVlZ3SXY4SG0yazNZSjM0VnNVV0VscmhrNHV1WGthWjhDNXFYSkRCUEIxL0MwTk00STVDNHNUclQxTVdCZHdIdDVCUT09Iiwic3JtIjp7ImIiOnsiaGwiOmZhbHNlLCJyIjoidXMiLCJzaWQiOjN9LCJuIjp7ImhsIjpmYWxzZSwiciI6InVzIiwic2lkIjoyfX0sInRva2VuIjoibzJmTGRKM2hiUnRuQjk1enNDTFprQ2phbE1XZzJUIiwidXNlcl9pZCI6Ijk4YTYzNDIyLWE5NGQtNDUwMy05MWJkLWFkMDVkYjA4YmFlOSIsInVzZXJfb3JpZ2luIjoiVVMifQ.Pl7Y7x0E004rUQl3YaxwSA0mX5Yo1TaQJHPqrYq8Er2IdbfBXaS9Dwl8ZFaHFYrEpinYGt8FBwq7-UdHic71-g\",\"backup_code\":null,\"expires_in\":843539,\"mfa_code\":null,\"refresh_token\":\"GMFupgTu5OsqvhFhDWRLDZj1U8PzdQ\",\"scope\":\"internal\",\"token_type\":\"Bearer\",\"user_uuid\":\"98a63422-a94d-4503-91bd-ad05db08bae9\",\"read_only_secondary_access_token\":\"eyJhbGciOiJFUzI1NiIsImtpZCI6IjIiLCJ0eXAiOiJKV1QifQ.eyJkZXZpY2VfaGFzaCI6IjY5MGYzYmJlNTZiOTExNzI2ZWU3ZDg3MTU3YzQxNDM4IiwiZXhwIjoxNzUzOTk1MzQ4LCJpc3MiOiJodHRwczovL2FwaS5yb2Jpbmhvb2QuY29tIiwibGV2ZWwyX2FjY2VzcyI6dHJ1ZSwibWV0YSI6e30sIm9wdGlvbnMiOnRydWUsInBvcyI6InMiLCJzY29wZSI6InJlYWQiLCJzZXJ2aWNlX3JlY29yZHMiOlt7ImhhbHRlZCI6ZmFsc2UsInNlcnZpY2UiOiJudW1tdXNfdXMiLCJzaGFyZF9pZCI6Miwic3RhdGUiOiJhdmFpbGFibGUifSx7ImhhbHRlZCI6ZmFsc2UsInNlcnZpY2UiOiJicm9rZWJhY2tfdXMiLCJzaGFyZF9pZCI6Mywic3RhdGUiOiJhdmFpbGFibGUifV0sInNsZyI6MSwic2xzIjoiTGpobElxWTJkZlJMd3IxbmxQb2hBYy9LTTBDOWdFSmpPWXVHZG9GRUx3RGNnU3dRRDVucFFOY0tNSVU1NWovbjhzUUUwajBISWNrY1VTWUZudExpQ0E9PSIsInNybSI6eyJiIjp7ImhsIjpmYWxzZSwiciI6InVzIiwic2lkIjozfSwibiI6eyJobCI6ZmFsc2UsInIiOiJ1cyIsInNpZCI6Mn19LCJ0b2tlbiI6ImQ3ODgyZTdjMmRhMmE1NzAzMTU5MzBhMmFmY2E4OTBhZDJkM2ZiMjVjYjc3YmIxM2U5ZGY3NDY1NWVlZjY3YjgiLCJ1c2VyX2lkIjoiOThhNjM0MjItYTk0ZC00NTAzLTkxYmQtYWQwNWRiMDhiYWU5IiwidXNlcl9vcmlnaW4iOiJVUyJ9.IJWKi1Nj2ZsFgn4O2LoVow9v_cLhepCtlAocO3k1yTn13IjzdkJxQo2bSodKbG8C4Xm5Zj-ZWZ8VPhpebBsgpA\"}"
+        },
+        {
+          "name": "uc_settings",
+          "value": "{\"controllerId\":\"c2a92db45ca6d209d6877a604f0ff6e42a0d43d43cf847590afe4b74e4e8bbe3\",\"id\":\"A1FP4knwo32Phb\",\"language\":\"en\",\"services\":[{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151796999,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"1.0.5\",\"settings\":\"24.3.40\"}}],\"id\":\"4bWJnAIHjmH1M2\",\"processorId\":\"2dffc60e29662dddd6a025b0e258eb16b4b6c3ef6204c149678e6b0c754c875b\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151796999,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"9.6.8\",\"settings\":\"24.3.40\"}}],\"id\":\"9V8bg4D63\",\"processorId\":\"f933a4b0d2ec51b47e081af93be18f0275d1f9345ab8dc288bd671ab19b95334\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151796999,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"25.7.28\",\"settings\":\"24.3.40\"}}],\"id\":\"BJ59EidsWQ\",\"processorId\":\"45770aab28c9fa9e1d6b445861867afef1a6ea57d4e5a58b2ffdd399ff1d17a2\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151796999,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"5.1.5\",\"settings\":\"24.3.40\"}}],\"id\":\"W-HOHMTVq\",\"processorId\":\"8ff8c39ee6fbd14f9304f9b1411692bad52a0aa85095c4c747900d2d9ec03066\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151796999,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"1.3.6\",\"settings\":\"24.3.40\"}}],\"id\":\"Z0TcXjY0P\",\"processorId\":\"c206eed8be50369bbf7938608b65e9c04f177f4fb83c84008f0b8fd01f49da1c\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151796999,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"7.2.2\",\"settings\":\"24.3.40\"}}],\"id\":\"sjAWaw1cW\",\"processorId\":\"0ca8f0371ac70cf281087e841670f073b82801170f14c2ad707a1ca6f17f2321\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151796999,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"3.2.3\",\"settings\":\"24.3.40\"}}],\"id\":\"QBkU7XsMMczvRi\",\"processorId\":\"210261b46cb50cbc2821658fd93a5755dd266923742057a0a4d112cf5d7f7355\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151796999,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"2.1.1\",\"settings\":\"24.3.40\"}}],\"id\":\"PCM3ENiM_\",\"processorId\":\"ff6e691b72600f20eaad89ac51483f374abc7206b6d635431a9a2cfcd159b586\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151796999,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"1.0.2\",\"settings\":\"24.3.40\"}}],\"id\":\"bur5nm9N5lg6va\",\"processorId\":\"ca83faf3c00bceb8293d41266dc6b3a0d1df9c1cb9e7c736eda68d834e8b3b0f\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151797000,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"1.2.4\",\"settings\":\"24.3.40\"}}],\"id\":\"ZglHJrjn\",\"processorId\":\"f2f89f443853a2ef17769bec830098da644b7a291706a732a0be59d2a76aa702\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151797000,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"15.9.15\",\"settings\":\"24.3.40\"}}],\"id\":\"twMyStLkn\",\"processorId\":\"1cbcc710788eb69f18be51e1c0c06d4693759c5634f43860129556fa7c1096e7\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151797000,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"3.4.5\",\"settings\":\"24.3.40\"}}],\"id\":\"LykAT-gy\",\"processorId\":\"295928fadbcd630e1bb42ba95ebfe02f875e1ff25e524b594379b4657de2823b\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151797000,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"9.4.11\",\"settings\":\"24.3.40\"}}],\"id\":\"BkeKqEjuoZQ\",\"processorId\":\"09f7d65a571bba7e7932795ab0d40e3d80e8f295b7286493153cdcab08f9b746\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151797000,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"1.0.3\",\"settings\":\"24.3.40\"}}],\"id\":\"_TNqlKmFSnmV12\",\"processorId\":\"1d3ba2a203cebb0ac63e47e6ef563e2da76f0b2344ecf35d1386084bb6b96a15\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151797000,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"3.1.5\",\"settings\":\"24.3.40\"}}],\"id\":\"8u-otMeLg\",\"processorId\":\"bac122e8201f0be49a0c155928740cfb12cd8b38dfa1c102f5faac7bfc45b79d\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151797000,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"8.1.5\",\"settings\":\"24.3.40\"}}],\"id\":\"rH1vNPCFR\",\"processorId\":\"b2eaae710f14ae8c67f55095c91d6a90dd6cdacdea06229c3aa5ba9467820979\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151797000,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"1.0.2\",\"settings\":\"24.3.40\"}}],\"id\":\"661xX_8pMkaUXA\",\"processorId\":\"73d5cd87cdfdb99fcbf86f30c56473c76f570795f1b38e74b946cdfe05b52e1d\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151797000,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"1.0.3\",\"settings\":\"24.3.40\"}}],\"id\":\"xvRlt3feOOq0VI\",\"processorId\":\"b0d5bcaee8e2ddf8deeeeaee4842defe3d290acbe959c6d877633c85cb2e85a1\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151797000,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"40.17.46\",\"settings\":\"24.3.40\"}}],\"id\":\"H1Vl5NidjWX\",\"processorId\":\"29d750bcbf40d77a33aba9d33e7a4b5358b9397ba2fa244bce85bd9a10cb10e2\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151797000,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"1.0.3\",\"settings\":\"24.3.40\"}}],\"id\":\"jN_bfP4L7bFXrF\",\"processorId\":\"d327b18bac6d7057645cee3ab17e34e4cf592601535781cf02d00877978d8cb1\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151797000,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"52.11.41\",\"settings\":\"24.3.40\"}}],\"id\":\"HkocEodjb7\",\"processorId\":\"3880605272dc2ffd670eea67cb891fbbaca296297e7af5e8795c623ec8220338\",\"status\":true},{\"history\":[{\"action\":\"onNonEURegion\",\"language\":\"en\",\"status\":true,\"timestamp\":1753151797000,\"type\":\"implicit\",\"versions\":{\"application\":\"SDK-4.30.0\",\"service\":\"1.0.4\",\"settings\":\"24.3.40\"}}],\"id\":\"ib1Ev0zRq\",\"processorId\":\"05ff209357858e3f31e6a4c1c95b1c8adeb170fd782510258a0dbee1b6928cb8\",\"status\":true}],\"version\":\"24.3.40\"}"
+        },
+        {
+          "name": "web-app-experiment-web-auth-i2i",
+          "value": "member"
+        },
+        {
+          "name": "web-app:server-load-screen-bg-theme",
+          "value": "dark"
+        }
+      ]
+    },
+    {
+      "origin": "https://app.usercentrics.eu",
+      "localStorage": [
+        {
+          "name": "uc_cross_domain_data_A1FP4knwo32Phb",
+          "value": "{\"consents\":[{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"4bWJnAIHjmH1M2\",\"timestamp\":\"1753151796999\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"9V8bg4D63\",\"timestamp\":\"1753151796999\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"BJ59EidsWQ\",\"timestamp\":\"1753151796999\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"W-HOHMTVq\",\"timestamp\":\"1753151796999\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"Z0TcXjY0P\",\"timestamp\":\"1753151796999\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"sjAWaw1cW\",\"timestamp\":\"1753151796999\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"QBkU7XsMMczvRi\",\"timestamp\":\"1753151796999\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"PCM3ENiM_\",\"timestamp\":\"1753151796999\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"bur5nm9N5lg6va\",\"timestamp\":\"1753151796999\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"ZglHJrjn\",\"timestamp\":\"1753151797000\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"twMyStLkn\",\"timestamp\":\"1753151797000\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"LykAT-gy\",\"timestamp\":\"1753151797000\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"BkeKqEjuoZQ\",\"timestamp\":\"1753151797000\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"_TNqlKmFSnmV12\",\"timestamp\":\"1753151797000\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"8u-otMeLg\",\"timestamp\":\"1753151797000\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"rH1vNPCFR\",\"timestamp\":\"1753151797000\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"661xX_8pMkaUXA\",\"timestamp\":\"1753151797000\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"xvRlt3feOOq0VI\",\"timestamp\":\"1753151797000\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"H1Vl5NidjWX\",\"timestamp\":\"1753151797000\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"jN_bfP4L7bFXrF\",\"timestamp\":\"1753151797000\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"HkocEodjb7\",\"timestamp\":\"1753151797000\",\"updatedBy\":\"implicit\"},{\"action\":\"onNonEURegion\",\"consentId\":\"\",\"settingsVersion\":\"24.3.40\",\"status\":true,\"templateId\":\"ib1Ev0zRq\",\"timestamp\":\"1753151797000\",\"updatedBy\":\"implicit\"}],\"controllerId\":\"c2a92db45ca6d209d6877a604f0ff6e42a0d43d43cf847590afe4b74e4e8bbe3\",\"language\":\"en\"}"
+        },
+        {
+          "name": "uc_cross_domain_data_A1FP4knwo32Phb_ccpa",
+          "value": "{\"ccpaString\":\"1-N-\",\"timestamp\":1753151796639}"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "MWI2YXhzdGl4bjdmNQ=="
+        },
+        {
+          "name": "rc::f",
+          "value": "0aAJ3Gg0YgrwOduf0UHhHHeiKuVHC-UiS7Z6V-ZyVb1lHvGaO6LlHL2IiU6wooZK6FbKcOoIg"
+        }
+      ]
+    }
+  ]
+}
